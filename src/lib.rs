@@ -125,7 +125,7 @@ mod gemm;
 mod graph;
 mod header;
 mod iter_util;
-mod model;
+pub mod model;
 mod model_metadata;
 mod number;
 mod op_registry;
